@@ -1,8 +1,3 @@
-console.log('hi');
+import './scss/index.scss';
 
-const start = async () => {
-  await Promise.resolve();
-};
-
-console.log('111');
-start();
+console.log('Working!');

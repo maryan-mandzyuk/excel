@@ -6,10 +6,8 @@
         "node": true
     },
     "rules": {
-        "linebreak-style": [
-            "error",
-            "windows"
-        ]
+        "linebreak-style": "off",
+        "object-curly-spacing": "off"
     },
     "extends": [
         "eslint:recommended",
